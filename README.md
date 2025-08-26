@@ -1,4 +1,4 @@
-- Hi, I’m @Raja-Soni
+- Hi, I’m Raja-Soni
 - I’m interested in Flutter, Android Application development.
 - I’m currently learning Flutter, Dart and Android Studio.
 - There are some projects that i've created in Flutter listed below.
