@@ -8,7 +8,7 @@ I have built applications like **Order Management, ERP, Dashboard, BMI, and Note
 - 🌱 Enthusiastic about learning new technologies to create innovative mobile and web projects
 
 Here is the Live Project link that i've created so far:
-- **Order Management App** – [Live Demo](https://order-management-applica-7cae6.web.app/)
+- **Order Management App** – [Live Web App Link](https://order-management-applica-7cae6.web.app/)
 
 📫 Reach me at: [rajasoni0099@gmail.com](mailto:rajasoni0099@gmail.com)
 
