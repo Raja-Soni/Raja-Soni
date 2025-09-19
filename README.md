@@ -5,8 +5,11 @@ I have built applications like **Order Management, ERP, Dashboard, BMI, and Note
 
 - 💻 Skills: Flutter, Dart, Android Studio, Core Java, MySQL  
 - 🌐 Basics: HTML, CSS, JavaScript  
-- 🌱 Enthusiastic about learning new technologies to create innovative mobile and web projects  
+- 🌱 Enthusiastic about learning new technologies to create innovative mobile and web projects
+
+Here is the Live Project link that i've created so far:
+- **Order Management App** – [Live Demo](https://order-management-applica-7cae6.web.app/)
 
 📫 Reach me at: [rajasoni0099@gmail.com](mailto:rajasoni0099@gmail.com)
 
-You can check out these Flutter apps that I've created so far down below.
+You can check out these Flutter apps that I've created so far down below:
